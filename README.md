@@ -8,6 +8,12 @@ This is a repo that is used, in class, to demonstrate how to solve a merge confl
 
 Merge conflicts are a common part of working with GitHub. Do not fear the conflicts, my friends! All will be well. W will solve the issues!
 
+
 this is a local change 
 
 Ding Dong hitstone cold haaiiiiiiiiiiiiiiiiiiii
+
+Meow Meow 
+
+Heeeeeeeeeeeeeeeeeeeeeeee Hawwwwwwwwwww
+
